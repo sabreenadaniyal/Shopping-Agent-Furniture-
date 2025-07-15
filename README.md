@@ -72,7 +72,7 @@ python agent.py
 ## 🧩 File Structure
 
 ```
-├── agent.py                # Main agent code
+├── main.py                 # Main agent code
 ├── .env                    # API key file
 ├── requirements.txt        # Dependencies
 └── README.md               # Project documentation

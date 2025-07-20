@@ -39,6 +39,13 @@ Can you suggest a modern chair for my bedroom?
 Recommend a gift-worthy item for my mom.
 Show me a white table that fits in a small space.
 ```
+---
+
+## 📡 Live API
+
+The shopping agent pulls real-time product data from:
+
+https://template6-six.vercel.app/api/products
 
 ---
 
